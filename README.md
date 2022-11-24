@@ -1,4 +1,4 @@
-### Hi Dear developer and reader 👋
+### Hi dear developer and reader 👋
 
 <!--
 **fabdla/fabdla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,11 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 
-### Dear developer and reader,
-
-I am **Fadimatou ABDOULAYE**. I am a **web developer & product owner**.
+I am **Fadimatou ABDOULAYE**. I am a **data analyst & software testing engineer**.
 
 - 🔭 I’m currently working on Data Science DU
 - 🌱 I’m currently learning Python
