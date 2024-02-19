@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 -->
 
-I am **Fadimatou ABDOULAYE**. I am a **data analyst & software testing engineer**.
+I am **Fadimatou ABDOULAYE**. I am a **Forensic Analyst and Incident Responder.**.
 
-- 🔭 I’m currently working on Data Science DU
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently seeking opportunities to work in cybersecurity
+- 🌱 I’m currently learning MLOps
 - 👯 I’m looking to collaborate on web tech
-- 🤔 I’m looking for help with dataviz, statistics
+- 🤔 I’m looking for help in further developing my expertise and staying updated on the latest advancements in cybersecurity.
 - 💬 Ask me about web coding languages elearning.
 - 📫 How to reach me: [via email](afadimatou@gmail.com)
 - ⚡ Fun fact: you can corrupt me with one mango icecream.
