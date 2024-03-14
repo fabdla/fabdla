@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 
 I am **Fadimatou ABDOULAYE**. I am a **Forensic Analyst and Incident Responder.**.
 
-- 🔭 I’m currently seeking opportunities to work in cybersecurity
-- 🌱 I’m currently learning MLOps
-- 👯 I’m looking to collaborate on web tech
+- 🔭 I’m currently seeking opportunities to work in cybersecurity.
+- 🌱 I’m currently learning MLOps.
+- 👯 I am looking for collaborations to participate in CTFs.
 - 🤔 I’m looking for help in further developing my expertise and staying updated on the latest advancements in cybersecurity.
-- 💬 Ask me about web coding languages elearning.
+- 🛡️ I am currently looking to set up an open-source host-based intrusion detection system (HIDS) platform dedicated to threat detection, prevention, and response.
+- 💬 Ask me about web coding languages elearning, web scraping, data processing with pandas.
 - 📫 How to reach me: [via email](afadimatou@gmail.com)
 - ⚡ Fun fact: you can corrupt me with one mango icecream.
 
