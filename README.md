@@ -24,6 +24,7 @@ I am **Fadimatou ABDOULAYE**. I am a **Forensic Analyst and Incident Responder.*
 - 🤔 I’m looking for help in further developing my expertise and staying updated on the latest advancements in cybersecurity.
 - 🛡️ I am currently looking to set up an open-source host-based intrusion detection system (HIDS) platform dedicated to threat detection, prevention, and response.
 - 💬 Ask me about web coding languages elearning, web scraping, data processing with pandas.
+- 🎓 My datascientist certificates are avlailable [here](https://www.dropbox.com/scl/fo/ga1nwe7ot8kn4s74fj36t/h?rlkey=t2x0rcatmx61wivjptr29v2ox&dl=0)
 - 📫 How to reach me: [via email](afadimatou@gmail.com)
 - ⚡ Fun fact: you can corrupt me with one mango icecream.
 
